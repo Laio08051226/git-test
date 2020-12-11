@@ -1,4 +1,4 @@
-##git test
+## git test
 
 課程練習
 練習 git
@@ -10,4 +10,4 @@
 - git diff a.txt
 - git branch canvas
 - git checkout canvas
-- git merge canvas
+- git merge canvasg
